@@ -1,34 +1,56 @@
-<h1 align="center"> Hi, I'm Henrique Oliveira! 🤘🏾<h1>
+<h1 align="center"> Hi, I'm Henrique Oliveira! <img src="https://user-images.githubusercontent.com/104616883/187118382-a517a71d-114a-4061-a57e-c9be21ae41de.png" width="40px"/><h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Wanderson-Henrique-Oliveira&color=yellow" alt="Profile views" /> </p>
 
-<img src="https://user-images.githubusercontent.com/104616883/176903596-1ad5c7fe-ab78-44c1-b8b8-afd677e5189d.png" align="right" width="200px" />
+<img src="https://user-images.githubusercontent.com/104616883/187118457-c9b15f78-39d7-4ae4-92aa-b8f5d9f9592c.jpg" align="right" width="200px" />
 <br>
 <h2> 👥 &nbsp;Social Links </h2>
 
-<p align="left">
+<div align="center">
 
 [![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderson-henrique-oliveira-74b718235/)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/HenriqueOliveira)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/wander.arievilo)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/henrique_arievilo26/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wanderson-Henrique-Oliveira)
-</p>
+</div>
 <br>
 
 <h2> 💻 &nbsp;Tech Stack: </h2>
 <br>
-
-<div class="techs">
-    <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div> 
-
+<h3> 📋 Languages </h3>
+<div align="center">
+    
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+</div>
 <br>
+<h3> 💻 IDEs/Editors </h3>
+<div align="center">
+    
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
+<br>
+<h3> 📚 Frameworks, Platforms and Libraries </h3>
+<div align="center">
+    
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)    
+</div>
+<br>
+    
 <h2> ⚙️ &nbsp;GitHub Analytics </h2>
 <br>
+    
+<div align="center">
+  <a href="https://github.com/Wanderson-Henrique-Oliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wanderson-Henrique-Oliveira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderson-Henrique-Oliveira&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
-
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wanderson-Henrique-Oliveira&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderson-Henrique-Oliveira&layout=compact&theme=midnight-purple)](https://github.com/Wanderson-Henrique-Oliveira/github-readme-stats)
 
 
 <h4>Passionate about technologies. Every day I learn a little more and discover the world of programming.</h4>
