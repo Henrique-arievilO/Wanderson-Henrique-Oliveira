@@ -59,3 +59,5 @@
 <div align="left">
 <img src="https://user-images.githubusercontent.com/104616883/176903125-80fa5d55-61ed-428d-9852-45bcdbcd8b82.png" width="100px" />
 </div>
+    
+![Snake animation](https://github.com/Wanderson-Henrique-Oliveira/Wanderson-Henrique-Oliveira/blob/output/github-contribution-grid-snake.svg)
