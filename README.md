@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Henrique Oliveira! <img src="https://user-images.githubusercontent.com/104616883/187118382-a517a71d-114a-4061-a57e-c9be21ae41de.png" width="40px"/><h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Wanderson-Henrique-Oliveira&color=yellow" alt="Profile views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Henrique-arievilO&color=yellow" alt="Profile views" /> </p>
 
 <img src="https://user-images.githubusercontent.com/104616883/187118457-c9b15f78-39d7-4ae4-92aa-b8f5d9f9592c.jpg" align="right" width="200px" />
 <br>
@@ -7,10 +7,10 @@
 
 <div align="center">
 
-[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderson-henrique-oliveira-74b718235/)
+[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wandersonho-74b718235/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/wander.arievilo)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/henrique_arievilo26/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wanderson-Henrique-Oliveira)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Henrique-arievilO)
 </div>
 <br>
 
@@ -45,10 +45,10 @@
 <h2> ⚙️ &nbsp;GitHub Analytics </h2>
 <br>
     
-<div align="center">
-  <a href="https://github.com/Wanderson-Henrique-Oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wanderson-Henrique-Oliveira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderson-Henrique-Oliveira&layout=compact&langs_count=7&theme=midnight-purple"/>
+<div align="center" display="flex">
+  <a href="https://github.com/Henrique-arievilO">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-arievilO&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-arievilO&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 
@@ -60,4 +60,4 @@
 <img src="https://user-images.githubusercontent.com/104616883/176903125-80fa5d55-61ed-428d-9852-45bcdbcd8b82.png" width="100px" />
 </div>
     
-![Snake animation](https://github.com/Wanderson-Henrique-Oliveira/Wanderson-Henrique-Oliveira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Wanderson-Henrique-Oliveira/Henrique-arievilO/blob/output/github-contribution-grid-snake.svg)
