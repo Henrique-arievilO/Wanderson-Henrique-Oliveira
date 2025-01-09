@@ -37,9 +37,17 @@
 </div>
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henrique-arievilO&theme=2077)
+<div align="center">
+    
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henrique-arievilO&theme=midnight_purple)
+</div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-arievilO&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Henrique-arievilO&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Henrique-arievilO&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henrique-arievilO&theme=2077&utcOffset=8)
+
+<div align="center">
+    
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-arievilO&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Henrique-arievilO&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Henrique-arievilO&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henrique-arievilO&theme=midnight_purple&utcOffset=8)
+</div>
 <h4>Passionate about technologies. Every day I learn a little more and discover the world of programming.</h4>
