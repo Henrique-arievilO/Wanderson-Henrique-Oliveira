@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Henrique Oliveira! <img src="https://user-images.githubusercontent.com/104616883/187118382-a517a71d-114a-4061-a57e-c9be21ae41de.png" width="40px"/><h1>
+<h1 align="center"> Hi, I'm Henrique Oliveira! <img src="https://em-content.zobj.net/source/microsoft-teams/363/black-bird_1f426-200d-2b1b.png" width="40px"/><h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Henrique-arievilO&color=yellow" alt="Profile views" /> </p>
 <h2> 👥 &nbsp;Social Links </h2>
 <div align="center">
@@ -37,4 +37,9 @@
 </div>
 <br>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Henrique-arievilO&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Henrique-arievilO&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Henrique-arievilO&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Henrique-arievilO&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Henrique-arievilO&theme=2077&utcOffset=8)
 <h4>Passionate about technologies. Every day I learn a little more and discover the world of programming.</h4>
